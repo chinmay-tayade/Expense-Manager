@@ -5,12 +5,10 @@
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Downloads](https://img.shields.io/badge/Downloads-75K+-00C853?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Rating-4.7%20★-FFD700?style=for-the-badge)
 
 **A modern, feature-rich financial management application built with Kotlin and Jetpack Compose**
 
-[Download on Play Store](#) • [View Screenshots](#screenshots) • [Report Bug](../../issues) • [Request Feature](../../issues)
 
 </div>
 
